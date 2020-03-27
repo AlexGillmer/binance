@@ -24,10 +24,10 @@ const ContentWrapper = styled.div`
 `;
 
 const AppWrapper = styled.div`
-  min-height: 100vh;
   display: flex;
   flex: 1 1 auto;
   flex-direction: column;
+  min-height: 100vh;
 `;
 
 const App: React.FC = (): JSX.Element => {

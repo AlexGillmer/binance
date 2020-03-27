@@ -5,9 +5,9 @@ import DefaultButton from './DefaultButton';
 
 const FooterWrapper = styled.footer`
   background-color: ${(props): string => props.theme.footerBackground};
-  text-align: center;
   margin-top: ${(props): string => props.theme.defaultMargin};
   padding: 70px ${(props): string => props.theme.defaultPadding};
+  text-align: center;
 `;
 
 const Footer: React.FC = (): JSX.Element => {

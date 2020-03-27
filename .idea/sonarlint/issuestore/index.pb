@@ -48,3 +48,7 @@ N
 .stylelintrc,9/a/9a288bcd72683293e66f7752dc726e9683204c0c
 @
 .stylelintignore,3/1/318f93399ccc2d608047eb2583a11106fb8a546b
+A
+src/setupTests.js,b/7/b7e8d8f421068b8d51c89805d2035e747be2ff17
+U
+%src/__tests__/components/App.test.tsx,8/e/8e9f40450fc600fbf9eb5ba33be90189ce662b8c
